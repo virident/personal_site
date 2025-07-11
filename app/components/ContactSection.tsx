@@ -22,7 +22,7 @@ export default function ContactSection() {
 					transition={{ duration: 0.6, delay: 0.2 }}
 					className="text-gray-300 mb-6"
 				>
-					Have any questions or interested in what I do? I am always open to opportunities!.
+					Have any questions or interested in what I do? I&apos;m always open to opportunities!.
 				</motion.p>
 
 				{/* <motion.div
