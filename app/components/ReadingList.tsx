@@ -79,7 +79,7 @@ export default function ReadingList() {
 			>
 				Reading List
 			</motion.h2>
-			<p className="text-gray-400 text-center mb-8 md:mb-12">I like to document so I don't forget</p>
+			<p className="text-gray-400 text-center mb-8 md:mb-12">I like to document so I do not forget</p>
 
 			{/* Currently Reading Section */}
 			<motion.h3
